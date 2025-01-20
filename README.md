@@ -7,7 +7,7 @@ Full Stack Web Developer | Dashboard | API | Database | Deployment
 Hello there! My name is Wahid Ali, and I'm a full-stack web developer with 2 years of experience crafting high-quality web applications. I'm proficient in both frontend and backend development.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [contact@wahidali.dev](mailto:contact@wahidali.dev)
+* ✉️  You can contact me at [wahid@bashbits.io](mailto:wahid@bashbits.io)
 
 ### Skills
 
