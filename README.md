@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer | Dashboard | API | Database | Deployment
 ------------------------------------------------------------------
 
-Hello there! My name is Wahid Ali, and I'm a full-stack web developer with 2 years of experience crafting high-quality web applications. I'm proficient in both frontend and backend development.
+Hello there! My name is Wahid Ali, and I'm a full-stack web developer with 4 years of experience crafting high-quality web applications. I'm proficient in both frontend and backend development.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [wahid@bashbits.io](mailto:wahid@bashbits.io)
